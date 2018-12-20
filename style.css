@@ -62,15 +62,15 @@ input {-webkit-appearance: none;}
 }
 
 #blog-wrapper {
-	width: 200%;
+	width: 100%;
 	float: left;
-	padding: 150px 0 500px 0;
+	padding: 50px 0 200px 0;
 	box-sizing: border-box;
 }
 .blog {
-	width: 960px;
-  max-width: 90%;
-	min-height: 500px;
+	width: 1060px;
+  max-width: 100%;
+	min-height: 1000px;
 	margin: 0 auto;
 	position: relative;
 }
